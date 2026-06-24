@@ -22,7 +22,7 @@ An IP Address uniquely identifies a device on a network.
 
 Examples:
 
-- IPv4: 192.168.1.1
+- IPv4: 192.168.1.2
 - IPv6: 2001:db8::1
 
 ## DNS
