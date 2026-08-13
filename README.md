@@ -67,7 +67,7 @@ Each topic folder contains structured Markdown notes — explanations, commands,
 
 - **LinkedIn:** [linkedin.com/in/muzammil-tariq](https://www.linkedin.com/in/muzammil-tariq/)
 - **Email:** [muzammiltariq1234@gmail.com](mailto:muzammiltariq1234@gmail.com)
-- **Portfolio:** [add your portfolio site here, if applicable]
+- **Portfolio:** 
 
 ---
 
