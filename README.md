@@ -46,9 +46,9 @@ Each topic folder contains structured Markdown notes — explanations, commands,
 
 | Project | Description | Status |
 |---|---|---|
-| [Cloud Resume Challenge](./06-Projects) | Static resume site on AWS (S3, CloudFront, Route 53, Lambda, DynamoDB) | 🔄 In Progress |
-| Portfolio Website | Personal portfolio deployed via AWS static hosting | 📋 Planned |
-| Docker Deployment Lab | Multi-container app deployed with Docker Compose | 📋 Planned |
+| [Cloud Resume Challenge](./06-Projects/cloud-resume-challenge.md) | Static resume site on AWS (S3, CloudFront, Route 53, Lambda, DynamoDB) | 📝 Documented — build in progress |
+| [Portfolio Website](./06-Projects/portfolio-website.md) | Personal portfolio deployed via AWS static hosting (S3 + CloudFront + OAC) | 📝 Documented — build pending |
+| [Docker Deployment Lab](./06-Projects/docker-deployment-lab.md) | Multi-container app deployed with Docker Compose → ECS Fargate | 📝 Documented — build pending |
 
 ## 🎯 Current Focus
 
