@@ -4,7 +4,7 @@ Cloud & Infrastructure Engineer in training | AWS-focused | Co-founder @ MotionC
 
 I'm a Computer Science graduate transitioning into cloud infrastructure, currently working toward the **AWS Certified Cloud Practitioner (CLF-C02)** and **AWS Certified Solutions Architect – Associate (SAA-C03)**. This repository is my technical portfolio: hands-on notes, lab work, and projects covering networking, Linux, AWS, and Docker — built the way I'd document real infrastructure work, not a daily diary.
 
-I completed a **Junior Cloud Engineer internship at MotionCut**, working with AWS infrastructure and MySQL databases, and I'm now targeting full-time Junior Cloud Engineer roles, with a particular focus on opportunities in **Saudi Arabia**.
+I'm currently targeting full-time Junior Cloud Engineer roles, with a particular focus on opportunities in **Saudi Arabia**.
 
 ---
 
