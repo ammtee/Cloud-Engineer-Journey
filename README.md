@@ -52,12 +52,16 @@ Each topic folder contains structured Markdown notes — explanations, commands,
 
 ## 🎯 Current Focus
 
-- [x] Networking fundamentals
-- [ ] Linux administration essentials
-- [ ] AWS Cloud Practitioner exam prep
-- [ ] AWS Solutions Architect Associate exam prep
-- [ ] Docker fundamentals
-- [ ] Cloud Resume Challenge build
+- [x] Networking fundamentals — documented
+- [x] Linux administration essentials — documented
+- [x] AWS core services (EC2, IAM, S3, VPC, Lambda, RDS) — documented
+- [x] Docker fundamentals — documented
+- [x] Interview prep compiled (technical + behavioral)
+- [ ] AWS Cloud Practitioner exam — study in progress, exam not yet scheduled
+- [ ] AWS Solutions Architect Associate exam — study in progress, exam not yet scheduled
+- [ ] Cloud Resume Challenge — architecture documented, build not yet started
+- [ ] Portfolio Website — architecture documented, build not yet started
+- [ ] Docker Deployment Lab — architecture documented, build not yet started
 
 ## 📫 Contact
 
