@@ -30,14 +30,14 @@ I'm currently targeting full-time Junior Cloud Engineer roles, with a particular
 ```
 Cloud-Engineer-Journey/
 │
-├── 01-Networking/          Networking fundamentals, OSI model, TCP/IP, DNS
-├── 02-Linux/                Linux administration, permissions, shell scripting
-├── 03-Git/                  Git & GitHub workflows, branching strategies
-├── 04-AWS/                  Core AWS services (EC2, IAM, S3, VPC, Lambda, RDS...)
-├── 05-Docker/                Containers, Dockerfiles, Docker Compose
-├── 06-Projects/              Applied projects (Cloud Resume Challenge, deployments)
-├── 07-Certifications/        Study notes and exam prep tracking
-└── 08-Interview-Prep/        Common interview questions & scenario answers
+├── 01-Networking/      Networking fundamentals, OSI model, TCP/IP, DNS
+├── 02-Linux/           Linux administration, permissions, shell scripting
+├── 03-Git/             Git & GitHub workflows, branching strategies
+├── 04-AWS/             Core AWS services (EC2, IAM, S3, VPC, Lambda, RDS...)
+├── 05-Docker/          Containers, Dockerfiles, Docker Compose
+├── 06-Projects/        Applied projects (Cloud Resume Challenge, deployments)
+├── 07-Certifications/  Study notes and exam prep tracking
+└── 08-Interview-Prep/  Common interview questions & scenario answers
 ```
 
 Each topic folder contains structured Markdown notes — explanations, commands, and where relevant, diagrams and real-world scenarios — rather than unstructured daily logs.
