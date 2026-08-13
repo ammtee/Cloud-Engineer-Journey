@@ -8,7 +8,7 @@ This file pulls together the interview questions scattered across each topic doc
 - Walk me through what happens when you type a URL into a browser.
 - Why does private IP addressing matter in AWS?
 
-*(Full answers: `01-Networking/networking-fundamentals.md`)*
+*(Full answers: [01-Networking/networking-fundamentals.md](../01-Networking/networking-fundamentals.md))*
 
 ## Linux
 
@@ -21,7 +21,7 @@ This file pulls together the interview questions scattered across each topic doc
 - What's the difference between `systemctl start` and `systemctl enable`?
 - What's the difference between `apt update` and `apt upgrade`?
 
-*(Full answers: `02-Linux/filesystem-and-permissions.md`, `02-Linux/networking-and-services.md`)*
+*(Full answers: [02-Linux/filesystem-and-permissions.md](../02-Linux/filesystem-and-permissions.md), [02-Linux/networking-and-services.md](../02-Linux/networking-and-services.md))*
 
 ## Git & GitHub
 
@@ -33,7 +33,7 @@ This file pulls together the interview questions scattered across each topic doc
 - What's a Pull Request, and why use one instead of pushing directly to `main`?
 - What's the difference between `git branch -d` and `git branch -D`?
 
-*(Full answers: `03-Git/git-basics.md`, `03-Git/branching-and-workflow.md`)*
+*(Full answers: [03-Git/git-basics.md](../03-Git/git-basics.md), [03-Git/branching-and-workflow.md](../03-Git/branching-and-workflow.md))*
 
 ## AWS — IAM
 
@@ -77,7 +77,7 @@ This file pulls together the interview questions scattered across each topic doc
 - Walk me through a serverless API architecture using Lambda.
 - When would you *not* use Lambda?
 
-*(Full answers: `04-AWS/iam.md`, `ec2.md`, `vpc.md`, `s3.md`, `rds.md`, `lambda.md`)*
+*(Full answers: [04-AWS/iam.md](../04-AWS/iam.md), [ec2.md](../04-AWS/ec2.md), [vpc.md](../04-AWS/vpc.md), [s3.md](../04-AWS/s3.md), [rds.md](../04-AWS/rds.md), [lambda.md](../04-AWS/lambda.md))*
 
 ## Docker
 
@@ -90,7 +90,7 @@ This file pulls together the interview questions scattered across each topic doc
 - How do containers in the same Docker Compose file communicate with each other?
 - What's the difference between `CMD` and `ENTRYPOINT`?
 
-*(Full answers: `05-Docker/docker-basics.md`, `05-Docker/dockerfile-and-compose.md`)*
+*(Full answers: [05-Docker/docker-basics.md](../05-Docker/docker-basics.md), [05-Docker/dockerfile-and-compose.md](../05-Docker/dockerfile-and-compose.md))*
 
 ## Projects
 
@@ -101,7 +101,7 @@ This file pulls together the interview questions scattered across each topic doc
 - What's the benefit of using OIDC role assumption in GitHub Actions instead of storing AWS access keys as secrets?
 - How does deploying to ECS Fargate differ from running Docker on an EC2 instance?
 
-*(Full answers: `06-Projects/cloud-resume-challenge.md`, `portfolio-website.md`, `docker-deployment-lab.md`)*
+*(Full answers: [06-Projects/cloud-resume-challenge.md](../06-Projects/cloud-resume-challenge.md), [portfolio-website.md](../06-Projects/portfolio-website.md), [docker-deployment-lab.md](../06-Projects/docker-deployment-lab.md))*
 
 ## How to Use This File
 

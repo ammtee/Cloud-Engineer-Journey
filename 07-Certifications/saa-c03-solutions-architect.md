@@ -25,30 +25,30 @@
 ## Study Plan Checklist
 
 ### Domain 1: Design Secure Architectures
-- [ ] IAM deep dive — policies, roles, cross-account access (see `04-AWS/iam.md`)
-- [ ] VPC security — Security Groups vs. NACLs (see `04-AWS/vpc.md`)
+- [ ] IAM deep dive — policies, roles, cross-account access (see [04-AWS/iam.md](../04-AWS/iam.md))
+- [ ] VPC security — Security Groups vs. NACLs (see [04-AWS/vpc.md](../04-AWS/vpc.md))
 - [ ] Encryption — KMS, encryption at rest and in transit
 - [ ] Secrets Manager vs. Systems Manager Parameter Store
 - [ ] S3 bucket policies, Block Public Access, Object Lock
 
 ### Domain 2: Design Resilient Architectures
 - [ ] Multi-AZ vs. Multi-Region architectures
-- [ ] RDS Multi-AZ and Read Replicas (see `04-AWS/rds.md`)
+- [ ] RDS Multi-AZ and Read Replicas (see [04-AWS/rds.md](../04-AWS/rds.md))
 - [ ] Auto Scaling Groups
 - [ ] Elastic Load Balancing (ALB vs. NLB vs. CLB)
 - [ ] SQS, SNS for decoupled architectures
 - [ ] Backup and disaster recovery strategies (RPO/RTO concepts)
 
 ### Domain 3: Design High-Performing Architectures
-- [ ] EC2 instance types and right-sizing (see `04-AWS/ec2.md`)
+- [ ] EC2 instance types and right-sizing (see [04-AWS/ec2.md](../04-AWS/ec2.md))
 - [ ] Caching strategies — CloudFront, ElastiCache
 - [ ] Storage performance — EBS volume types (gp3, io2), S3 performance patterns
 - [ ] Database performance — read replicas, DynamoDB partition keys, Aurora
-- [ ] Serverless performance patterns — Lambda concurrency, cold starts (see `04-AWS/lambda.md`)
+- [ ] Serverless performance patterns — Lambda concurrency, cold starts (see [04-AWS/lambda.md](../04-AWS/lambda.md))
 
 ### Domain 4: Design Cost-Optimized Architectures
 - [ ] EC2 pricing models — On-Demand, Reserved, Spot, Savings Plans
-- [ ] S3 storage classes and lifecycle policies (see `04-AWS/s3.md`)
+- [ ] S3 storage classes and lifecycle policies (see [04-AWS/s3.md](../04-AWS/s3.md))
 - [ ] Right-sizing and Auto Scaling for cost efficiency
 - [ ] AWS Cost Explorer, Budgets, Trusted Advisor cost checks
 

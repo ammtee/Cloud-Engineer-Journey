@@ -31,16 +31,16 @@
 
 ### Domain 2: Security and Compliance
 - [ ] AWS Shared Responsibility Model
-- [ ] IAM fundamentals (see `04-AWS/iam.md` in this repo)
+- [ ] IAM fundamentals (see [04-AWS/iam.md](../04-AWS/iam.md))
 - [ ] AWS compliance programs (overview level, not deep detail)
 - [ ] AWS Trusted Advisor, AWS Artifact
 - [ ] DDoS protection basics (AWS Shield, WAF — awareness level)
 
 ### Domain 3: Cloud Technology and Services
-- [ ] Core compute: EC2, Lambda, ECS (see `04-AWS/ec2.md`, `04-AWS/lambda.md`)
-- [ ] Core storage: S3, EBS, EFS (see `04-AWS/s3.md`)
-- [ ] Core networking: VPC, Route 53, CloudFront (see `04-AWS/vpc.md`)
-- [ ] Core databases: RDS, DynamoDB (see `04-AWS/rds.md`)
+- [ ] Core compute: EC2, Lambda, ECS (see [04-AWS/ec2.md](../04-AWS/ec2.md), [04-AWS/lambda.md](../04-AWS/lambda.md))
+- [ ] Core storage: S3, EBS, EFS (see [04-AWS/s3.md](../04-AWS/s3.md))
+- [ ] Core networking: VPC, Route 53, CloudFront (see [04-AWS/vpc.md](../04-AWS/vpc.md))
+- [ ] Core databases: RDS, DynamoDB (see [04-AWS/rds.md](../04-AWS/rds.md))
 - [ ] AWS Global Infrastructure (Regions, Availability Zones, Edge Locations)
 - [ ] Management tools overview (CloudWatch, CloudTrail, CloudFormation)
 
